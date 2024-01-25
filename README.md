@@ -18,4 +18,6 @@ https://github.com/RIT-CCDC/Scripts
 
 https://github.com/guyinatuxedo/dawn-guard
 
+https://github.com/UML-Cyber-Security/ccdc2023
 
+https://github.com/CyberLions/CCDC/tree/master
